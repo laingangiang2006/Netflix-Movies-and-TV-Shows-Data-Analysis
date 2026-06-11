@@ -76,6 +76,8 @@ Netflix-Movies-and-TV-Shows-Data-Analysis/
 ```bash
 # Clone the repository
 git clone https://github.com/laingangiang2006/Netflix-Movies-and-TV-Shows-Data-Analysis.git
+
+# Navigate into the project folder
 cd Netflix-Movies-and-TV-Shows-Data-Analysis
 
 # Install dependencies
