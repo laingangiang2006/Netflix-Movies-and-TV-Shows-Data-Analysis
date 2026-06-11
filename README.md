@@ -26,11 +26,13 @@ Netflix-Movies-and-TV-Shows-Data-Analysis/
 
 ## 🔧 Tools & Libraries
 
-- Python 3.x: Core language 
-- pandas: Data manipulation
-- numpy: Numerical operations
-- matplotlib: Charting
-- seaborn: Statistical visualization
+| Tool | Purpose |
+|------|---------|
+| Python 3.x | Core language |
+| pandas | Data manipulation |
+| numpy | Numerical operations |
+| matplotlib | Charting |
+| seaborn | Statistical visualization |
 
 ---
 
