@@ -100,11 +100,3 @@ The full analysis with slide-by-slide insights is available in:
 
 This project is for educational purposes. Dataset credit: [Nalisha on Kaggle](https://www.kaggle.com/datasets/nalisha/netflix-movies-and-tv-shows-data-analysis).
 ```
-
----
-
-A few things to note before you paste this in:
-
-- The **file path** note under "How to Run" is important — your `index.py` currently has a hardcoded local path (`/Users/laingangiang2006/Downloads/...`) that won't work for other users.
-- If you rename `index.py` to `Project.py` or vice versa, update the run command accordingly.
-- You can add figure images directly into the README by placing them under `Figures/` and referencing them with `![Figure 1](Figures/Figure_1.png)` if you'd like the charts to render inline on GitHub.
