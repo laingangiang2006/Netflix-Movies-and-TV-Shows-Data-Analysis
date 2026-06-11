@@ -92,7 +92,7 @@ python index.py
 ## 📂 Presentation
 
 The full analysis with slide-by-slide insights is available in:
-`Netflix Movies & TV Shows Data Analysis.pptx`
+`Netflix Movies & TV Shows  Data Analysis.pptx`
 
 ---
 
