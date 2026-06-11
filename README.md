@@ -98,6 +98,6 @@ The full analysis with slide-by-slide insights is available in:
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes. Dataset credit: [Nalisha on Kaggle](https://www.kaggle.com/datasets/nalisha/netflix-movies-and-tv-shows-data-analysis).
