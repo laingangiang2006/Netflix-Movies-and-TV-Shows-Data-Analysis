@@ -2,8 +2,6 @@
 
 Exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset, examining patterns in content popularity, genre distribution, vote engagement, and language representation.
 
----
-
 ## Repository Structure
 
 ```
@@ -21,6 +19,7 @@ Netflix-Movies-and-TV-Shows-Data-Analysis/
 - **Source:** [Kaggle – Netflix Movies and TV Shows Data Analysis](https://www.kaggle.com/datasets/nalisha/netflix-movies-and-tv-shows-data-analysis)
 - **Size:** ~9,000+ titles
 - **Key columns:** `Title`, `Genre`, `Original_Language`, `Popularity`, `Vote_Count`, `Vote_Average`, `Release_Date`
+- [My Kaggle Code Notebook](https://www.kaggle.com/code/laingangiang2006/netflix-movies-tv-shows-data-analysis)
 
 ---
 
