@@ -1,10 +1,10 @@
-# 🎬 Netflix Movies & TV Shows Data Analysis
+# Netflix Movies & TV Shows Data Analysis
 
 Exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset, examining patterns in content popularity, genre distribution, vote engagement, and language representation.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Netflix-Movies-and-TV-Shows-Data-Analysis/
@@ -16,7 +16,7 @@ Netflix-Movies-and-TV-Shows-Data-Analysis/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** [Kaggle – Netflix Movies and TV Shows Data Analysis](https://www.kaggle.com/datasets/nalisha/netflix-movies-and-tv-shows-data-analysis)
 - **Size:** ~9,000+ titles
@@ -24,7 +24,7 @@ Netflix-Movies-and-TV-Shows-Data-Analysis/
 
 ---
 
-## 🔧 Tools & Libraries
+## Tools & Libraries
 
 | Tool | Purpose |
 |------|---------|
@@ -36,7 +36,7 @@ Netflix-Movies-and-TV-Shows-Data-Analysis/
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 
 1. Load dataset with `latin-1` encoding
 2. Drop rows and columns with missing values
@@ -48,7 +48,7 @@ Netflix-Movies-and-TV-Shows-Data-Analysis/
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 | Figure | Chart | Key Finding |
 |--------|-------|-------------|
@@ -61,7 +61,7 @@ Netflix-Movies-and-TV-Shows-Data-Analysis/
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 - **Drama** is the highest-volume genre but ranks last in per-title vote engagement among the top 10
 - **Adventure** is the strongest genre overall — top in both popularity and vote count
@@ -71,7 +71,7 @@ Netflix-Movies-and-TV-Shows-Data-Analysis/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 # Clone the repository
@@ -91,7 +91,7 @@ python index.py
 
 ---
 
-## 📂 Presentation
+## Presentation
 
 The full analysis with slide-by-slide insights is available in:
 `Netflix Movies & TV Shows  Data Analysis.pptx`
