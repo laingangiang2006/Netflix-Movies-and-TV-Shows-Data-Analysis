@@ -1,3 +1,6 @@
+<img width="7960" height="4000" alt="dataset-cover" src="https://github.com/user-attachments/assets/4a464618-45a3-4a32-82b1-47d3fcf07e48" />
+
+
 # Netflix Movies & TV Shows Data Analysis
 
 Exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset, examining patterns in content popularity, genre distribution, vote engagement, and language representation.
