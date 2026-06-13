@@ -89,7 +89,7 @@ python index.py
 
 ## Presentation
 
-The full analysis with slide-by-slide insights is available in [This pptx file](Presentation.pptx) or [this Canva](https://canva.link/f3u8k7qwhfo7ktk).
+The full analysis with slide-by-slide insights is available in [this pptx file](Presentation.pptx) or [this Canva](https://canva.link/f3u8k7qwhfo7ktk).
 
 ---
 
