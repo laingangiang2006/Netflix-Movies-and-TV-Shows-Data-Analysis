@@ -5,7 +5,7 @@ Exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset, exam
 ## Repository Overview
 
 1. [Charts](Figures)
-2. [My full presentation](Netflix-Movies-and-TV-Shows-Data-Analysis/Netflix Movies & TV Shows  Data Analysis.pptx)
+2. [My full presentation](Netflix Movies & TV Shows  Data Analysis.pptx)
 3. [index.py](index.py)
 4. You can view my presentation on [this Canva](https://canva.link/f3u8k7qwhfo7ktk).
 
