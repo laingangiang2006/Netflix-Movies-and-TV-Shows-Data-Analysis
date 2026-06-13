@@ -6,9 +6,9 @@ Exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset, exam
 
 ```
 Netflix-Movies-and-TV-Shows-Data-Analysis/
-├── Figures/ # Charts (Figure_1 to Figure_6)
-├── Netflix Movies & TV Shows Data Analysis.pptx # Full presentation
-├── index.py # Main analysis script
+├── [Charts](Figures)
+├── [My full presentation](Netflix Movies & TV Shows  Data Analysis.pptx)
+├── [index.py](index.py) # Main analysis script
 └── README.md
 ```
 
