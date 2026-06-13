@@ -85,12 +85,6 @@ python index.py
 
 ---
 
-## Presentation
-
-The full analysis with slide-by-slide insights is available in [this pptx file](Presentation.pptx) or [this Canva](https://canva.link/f3u8k7qwhfo7ktk).
-
----
-
 ## License
 
 This project is for educational purposes. Dataset credit: [Nalisha on Kaggle](https://www.kaggle.com/datasets/nalisha/netflix-movies-and-tv-shows-data-analysis).
