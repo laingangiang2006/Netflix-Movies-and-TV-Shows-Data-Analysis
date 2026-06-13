@@ -89,8 +89,7 @@ python index.py
 
 ## Presentation
 
-The full analysis with slide-by-slide insights is available in:
-`Netflix Movies & TV Shows  Data Analysis.pptx`
+The full analysis with slide-by-slide insights is available in [This pptx file](Presentation.pptx) or [this Canva](https://canva.link/f3u8k7qwhfo7ktk).
 
 ---
 
