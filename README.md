@@ -2,17 +2,12 @@
 
 Exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset, examining patterns in content popularity, genre distribution, vote engagement, and language representation.
 
-## Repository Structure
+## Repository Overview
 
-```
-Netflix-Movies-and-TV-Shows-Data-Analysis/
-├── [Charts](Figures)
-├── [My full presentation](Netflix Movies & TV Shows  Data Analysis.pptx)
-├── [index.py](index.py) # Main analysis script
-└── README.md
-```
-
-You can view my presentation on [this Canva](https://canva.link/f3u8k7qwhfo7ktk).
+1. [Charts](Netflix-Movies-and-TV-Shows-Data-Analysis/Figures)
+2. [My full presentation](Netflix Movies & TV Shows  Data Analysis.pptx)
+3. [index.py](index.py) # Main analysis script
+4. You can view my presentation on [this Canva](https://canva.link/f3u8k7qwhfo7ktk).
 
 ---
 
