@@ -12,6 +12,8 @@ Netflix-Movies-and-TV-Shows-Data-Analysis/
 └── README.md
 ```
 
+You can view my presentation on [this Canva](https://canva.link/f3u8k7qwhfo7ktk).
+
 ---
 
 ## Dataset
