@@ -14,7 +14,6 @@ Exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset, exam
 
 - **Source:** [Kaggle – Netflix Movies and TV Shows Data Analysis](https://www.kaggle.com/datasets/nalisha/netflix-movies-and-tv-shows-data-analysis)
 - **Size:** ~9,000+ titles
-- **Key columns:** `Title`, `Genre`, `Original_Language`, `Popularity`, `Vote_Count`, `Vote_Average`, `Release_Date`
 
 ---
 
