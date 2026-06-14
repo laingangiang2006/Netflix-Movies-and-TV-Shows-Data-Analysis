@@ -7,8 +7,8 @@ Exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset, exam
 ## Repository Overview
 
 1. [Charts](Figures).
-2. My presentation can be viewed through [this pptx presentation](Presentation.pptx) in this repository or [this Canva presentation](https://canva.link/f3u8k7qwhfo7ktk).
-3. My code code can be viewed through [this Python file](index.py) in this repository or on [my Kaggle Notebook](https://www.kaggle.com/code/laingangiang2006/netflix-movies-tv-shows-data-analysis).
+2. My presentation can be viewed by downloading [this PowerPoint](https://github.com/laingangiang2006/Netflix-Movies-and-TV-Shows-Data-Analysis/blob/main/Presentation.pptx) in this repository or viewing through this [Canva presentation](https://canva.link/f3u8k7qwhfo7ktk).
+3. My code code can be viewed through [this index.py file](https://github.com/laingangiang2006/Netflix-Movies-and-TV-Shows-Data-Analysis/blob/main/index.py) in this repository or on [my Kaggle Notebook](https://www.kaggle.com/code/laingangiang2006/netflix-movies-tv-shows-data-analysis).
 
 ---
 
